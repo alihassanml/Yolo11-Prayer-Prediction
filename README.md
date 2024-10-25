@@ -1,7 +1,7 @@
 # YOLOv11 Prayer Prediction
 
 This repository contains the code for training and predicting prayer movements using the YOLOv11 model.
-![image](image.jpg)
+![image](output.jpg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
